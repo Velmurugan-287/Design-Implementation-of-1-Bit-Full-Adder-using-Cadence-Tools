@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![Screenshot 2024-11-15 103724';';](https://github.com/user-attachments/assets/bddf8ecc-a753-4192-b4a3-dbabd3c6c5f5)
+
 
 
 
@@ -81,7 +82,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![IMA](https://github.com/user-attachments/assets/2152b67f-1755-491b-9b42-e1c75ae71a67)
 
  
 Analog simulation by SPECTRE.
@@ -99,7 +100,8 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![IMAGE](https://github.com/user-attachments/assets/feb9a1f8-6102-4b42-960d-86936424587f)
+
 
 
  
